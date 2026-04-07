@@ -409,6 +409,12 @@ h2 {
   line-height: 1.05;
 }
 
+.highlight-card-main .highlight-number-compact {
+  font-size: 1.38rem;
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+}
+
 .highlight-label {
   color: var(--muted);
   line-height: 1.55;
@@ -984,6 +990,11 @@ h2 {
 
   .highlight-card-main .highlight-number {
     font-size: 1.05rem;
+    line-height: 1;
+  }
+
+  .highlight-card-main .highlight-number-compact {
+    font-size: 0.92rem;
     line-height: 1;
   }
 
